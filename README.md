@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 ## Demo links
-Link to demo project [Wpost](https://wpost.netlify.app).
+Link to demo project [https://wpost.netlify.app](https://wpost.netlify.app).
 
 
 In the project directory, you can run:
