@@ -7,6 +7,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Demo links
 Link to demo project [https://wpost.netlify.app](https://wpost.netlify.app).
 
+## Wider view
+
+![localhost_3000_(iPhone X)](https://user-images.githubusercontent.com/66668114/128180455-9dd0bad9-9c18-4b66-975e-7a0001ad52cf.png)
+
+## Mobile Version
+
+![localhost_3000_](https://user-images.githubusercontent.com/66668114/128180494-6c9ce630-b18f-4ddd-b452-
+2ceadac533cd.png)
+
 
 In the project directory, you can run:
 
